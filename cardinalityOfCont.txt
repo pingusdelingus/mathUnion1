@@ -1,0 +1,3 @@
+This Monday, we'll be talking about the puzzling world of Set Theory and Mathematical Logic.
+More specifically, we'll delve into different characterizations of infinity and demonstrate the existence of some 
+peculiar objects, namely, Ordinals. 
