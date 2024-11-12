@@ -1,3 +1,37 @@
+Set Theory and Mathmatical Logic!
+
+
+
+The Contiunuum Hypothesis and the Characterizations of Infinity.
+
+by Esteban Morales
+
+
+"Set theory has a dual role in mathematics. In pure mathematics, it is the place where questions about the infinite are studied.
+Although this is a fascinating study of permanent interest, it does not account for the importance of set theory in applied areas.
+There the importance stems from the fact that set theory provides an incredibly versatile toolbox for building mathematical models of various phenomena."
+
+-Jon Barwise and Lawrence Moss
+
+
+
 This Monday, we'll be talking about the puzzling world of Set Theory and Mathematical Logic.
-More specifically, we'll delve into different characterizations of infinity and demonstrate the existence of some 
-peculiar objects, namely, Ordinals. 
+More specifically, we'll delve into different characterizations and proposition relating to infinity and demonstrate the existence of these peculiar objects called ordinals.
+
+
+x is an ordinal if and only if x is a transitive set and (x, \epsilon) is a well ordering.
+
+Before we dive in headfirst, we must first examine, and eventually refine, the area 
+in which we discuss and reason. We will begin in Ancient Greece and travel through the 19th and 20th centuries to try and encapsulate the elusive
+representations of infinity. It is on this journey that we will unconver why mathematicians axiomatized set theory and realize just how powerful the ZFC axioms are.
+
+Next we will look at how our set of natural numbers was constructed, the size of the naturals when compared to the reals, and the Continuum Hypothesis (CH):
+
+ 2^aleph_0  = aleph_1
+
+In 1940, Kurt Gödel showed that, within ZFC, the Contiunuum Hypothesis cannot be disproven. A monumental result, even if it did not put the question of CH to bed.
+In the 1960's Paul Cohen was able to deduce that CH cannot be proven within ZFC. Thus, if the statement cannot be proven or disproven within a theory, it is considered
+independent of it.
+
+
+If time permits, we will explore Cohen's method of notions of forcing and generic filters on sets.
